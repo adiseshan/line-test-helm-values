@@ -3,5 +3,5 @@
 # Declare variables to be passed into your templates.
 
 cm:
-  keyx: valx
-  keym: valn
+  keyx: val2
+  keym: val3
